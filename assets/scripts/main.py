@@ -28,7 +28,7 @@ def banner():
 #     print(f"""⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠛⠛⠛⠛⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 # ⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣄⠀⠀⠀⠀⠀⠀⠀⠀
 # ⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡆⠀⠀⠀⠀Hello World !! Welcome to the matrix⠀⠀⠀
-# ⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀I am Rohit a.k.a {red}rohsec{reset}. I am a full time
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀I am Rohit a.k.a {red}RYNO{reset}. I am a full time
 # ⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⢀⣀⣤⡴⠶⠶⢦⣤⣀⡀⠀⠀⢻⡆⠀⠀⠀BugBounty Hunter and HackerOne Ambassador.⠀⠀⠀
 # ⠀⠀⠀⠀⠀⠀⠘⣧⡀⠛⢻⡏⠀⠀⠀⠀⠀⠀⠉⣿⠛⠂⣼⠇⠀⠀⠀I like identifying vulnerabilities and helping⠀⠀⠀
 # ⠀⠀⠀⠀⢀⣤⡴⠾⢷⡄⢸⡇⠀⠀⠀⠀⠀⠀⢀⡟⢀⡾⠷⢦⣤⡀⠀organizations reinforce their defenses.⠀⠀⠀
@@ -173,9 +173,9 @@ def tools():
 
 def social():
     print(f"{yellow}[{bgreen} *{yellow} ]{reset} My Social Handles :")
-    print(f"\t{bblue}|-- https://twitter.com/rohsec{reset}")
+    print(f"\t{bblue}|-- https://twitter.com/rynosec{reset}")
     print(f"\t{bblue}|-- https://linkedin.com/in/rohity264{reset}")
-    print(f"\t{bblue}|-- https://github.com/rohsec{reset}")
+    print(f"\t{bblue}|-- https://github.com/rynosec{reset}")
 
 
 def extension():
@@ -193,7 +193,7 @@ def about():
     print(f"""⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠛⠛⠛⠛⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣄⠀⠀⠀⠀ ╔═════════════════════════════════════════════════╗⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡆⠀⠀⠀ ║      Hello World !! Welcome to the matrix       ║
-⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀║  I am Rohit a.k.a {red}rohsec{reset}. I am a full time      ║
+⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀║  I am Rohit a.k.a {red}RYNO{reset}. I am a full time      ║
 ⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⢀⣀⣤⡴⠶⠶⢦⣤⣀⡀⠀⠀⢻⡆⠀⠀⠀║    BugBounty Hunter and HackerOne Ambassador.   ║
 ⠀⠀⠀⠀⠀⠀⠘⣧⡀⠛⢻⡏⠀⠀⠀⠀⠀⠀⠉⣿⠛⠂⣼⠇⠀⠀⠀║  I like identifying vulnerabilities and helping ║
 ⠀⠀⠀⠀⢀⣤⡴⠾⢷⡄⢸⡇⠀⠀⠀⠀⠀⠀⢀⡟⢀⡾⠷⢦⣤⡀⠀║    organizations reinforce their defenses.      ║
@@ -205,8 +205,8 @@ def about():
 ⠈⠳⣦⣀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠻⠶⠶⠟⠀⠀⠀⠀⠀⠀⠀⣿⠀⢀⣤⠞⠃
 ⠀⠀⠀⠙⠷⣿⣀⣀⣀⣀⣀⣠⣤⣤⣤⣤⣀⣤⣠⣤⡀⠀⣤⣄⣿⡶⠋⠁⠀⠀
 ⠀⠀⠀⠀⠀⢿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣿⠀⠀⠀⠀⠀""")
-    # print(f" Hi 👋! I am Rohit a.k.a {red}rohsec{reset}. I am a full time BugBounty Hunter and HackerOne Ambassador. I like identifying vulnerabilities and helping organizations reinforce their defenses.")
-    # print(f" You can connect with me at {bblue}https://twitter.com/rohsec{reset}")
+    # print(f" Hi 👋! I am Rohit a.k.a {red}RYNO{reset}. I am a full time BugBounty Hunter and HackerOne Ambassador. I like identifying vulnerabilities and helping organizations reinforce their defenses.")
+    # print(f" You can connect with me at {bblue}https://twitter.com/rynosec{reset}")
 
 def coffee():
     print(f"{yellow}[{bgreen} *{yellow} ]{reset} Yayy!! Coffee Time :")
@@ -229,16 +229,16 @@ def exitapp():
     print(f"{yellow}[{bgreen} *{yellow} ]{reset} See you later :")
     print(" Thank you for stopping by !! You will be now redirected to my twitter, connect to get in touch :)")
     sleep(2)
-    document.location="https://x.com/rohsec"
+    document.location="https://x.com/rynosec"
 
 def blog():
     print(f"{yellow}[{bgreen} *{yellow} ]{reset} You can find my blog at :")
-    print(f"{yellow}\t{bblue}|-- {yellow}https://blog.rohsec.com{reset}")
+    print(f"{yellow}\t{bblue}|-- {yellow}https://blog.ryno.sh{reset}")
 
 def choice():
 #     inp=input("""┌──(root㉿kali)-[~]
 # └─# """)
-    inp=input(f"""{blue}┌──({bred}root㉿rohsec{blue}){green}-{blue}[{bgreen}~{blue}]{blue}
+    inp=input(f"""{blue}┌──({bred}root㉿ryno.sh{blue}){green}-{blue}[{bgreen}~{blue}]{blue}
 └─{bred}#{reset} """)
     if(inp in commands):
         if(inp =="help"):
